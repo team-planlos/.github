@@ -1,2 +1,0 @@
-# Team Planlos
-Hello world!
